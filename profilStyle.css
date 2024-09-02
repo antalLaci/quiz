@@ -1,0 +1,46 @@
+#kerdessorok{
+    display: flex;
+    justify-content: center;
+    margin-left: 30%;
+    width: 30%;
+    border-radius: 15px;
+    margin-bottom: 5%;
+}
+th{
+    padding: 15px;
+    background-color: rgb(142, 142, 142);
+    border-radius: 15px;
+    text-align: center;
+}
+
+td{
+    background-color: rgb(181, 181, 181);
+    border-radius: 15px;
+    text-align: center;
+}
+
+#kerdesek{
+    display: flex;
+    justify-content: center;
+    margin-left: 25%;
+    width: 40%;
+    border-radius: 15px;
+}
+
+h1{
+    margin-left: 5%;
+}
+
+#stat{
+    display: flex;
+    justify-content: center;
+    margin-left: 25%;
+    width: 40%;
+    border-radius: 15px;
+    margin-bottom: 5%;
+}
+
+#stat td{
+    padding: 15px;
+    
+}

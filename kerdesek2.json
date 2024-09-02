@@ -1,0 +1,92 @@
+[
+    {
+      "kerdes": "Mi a fővárosa Franciaországnak?",
+      "helyes": 2,
+      "valasz1": "Berlin",
+      "valasz2": "Párizs",
+      "valasz3": "Madrid",
+      "valasz4": "Róma",
+      "pont": 10
+    },
+    {
+      "kerdes": "Melyik évben kezdődött az első világháború?",
+      "helyes": 2,
+      "valasz1": "1905",
+      "valasz2": "1914",
+      "valasz3": "1920",
+      "valasz4": "1939",
+      "pont": 10
+    },
+    {
+      "kerdes": "Mi a világ legnagyobb óceánja?",
+      "helyes": 3,
+      "valasz1": "Atlanti-óceán",
+      "valasz2": "Indiai-óceán",
+      "valasz3": "Csendes-óceán",
+      "valasz4": "Északi-sarki-óceán",
+      "pont": 10
+    },
+    {
+      "kerdes": "Ki volt az első ember a Holdon?",
+      "helyes": 1,
+      "valasz1": "Neil Armstrong",
+      "valasz2": "Buzz Aldrin",
+      "valasz3": "Yuri Gagarin",
+      "valasz4": "John Glenn",
+      "pont": 10
+    },
+    {
+      "kerdes": "Melyik állam a skót területek része?",
+      "helyes": 4,
+      "valasz1": "Anglia",
+      "valasz2": "Írország",
+      "valasz3": "Wales",
+      "valasz4": "Skócia",
+      "pont": 10
+    },
+    {
+      "kerdes": "Ki írta a Rómeó és Júlia című tragédiát?",
+      "helyes": 3,
+      "valasz1": "Charles Dickens",
+      "valasz2": "Jane Austen",
+      "valasz3": "William Shakespeare",
+      "valasz4": "Leo Tolstoy",
+      "pont": 10
+    },
+    {
+      "kerdes": "Melyik növény az alapanyaga a teának?",
+      "helyes": 2,
+      "valasz1": "Kávébabb",
+      "valasz2": "Tealevél",
+      "valasz3": "Kakóbab",
+      "valasz4": "Szőlő",
+      "pont": 10
+    },
+    {
+      "kerdes": "Ki festette a Mona Lisát?",
+      "helyes": 1,
+      "valasz1": "Leonardo da Vinci",
+      "valasz2": "Vincent van Gogh",
+      "valasz3": "Pablo Picasso",
+      "valasz4": "Michelangelo",
+      "pont": 10
+    },
+    {
+      "kerdes": "Hány ország alkotja az Európai Uniót?",
+      "helyes": 4,
+      "valasz1": "20",
+      "valasz2": "15",
+      "valasz3": "25",
+      "valasz4": "27",
+      "pont": 10
+    },
+    {
+      "kerdes": "Mi a legmagasabb hegy a világon?",
+      "helyes": 3,
+      "valasz1": "Mount Everest",
+      "valasz2": "K2",
+      "valasz3": "Himalája",
+      "valasz4": "Matterhorn",
+      "pont": 10
+    }
+]

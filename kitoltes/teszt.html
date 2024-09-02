@@ -1,0 +1,93 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body, html{
+			background-image: url('wallpaper.jpg');
+            background-size: cover;
+
+
+        }
+        .cim{
+            color: #ccc;
+            border-radius: 20px;
+            padding: 10px;
+            width: 500px;
+            background-color: #8f8f8f;
+            font-size: 24px;
+            text-align: center;
+            position: absolute;
+            left: 510px;
+        }
+        ol{
+            margin-top: 50px;
+            width: 500px;
+            background-color: transparent;
+            backdrop-filter: blur(5px);
+            border: 2px solid #808080   ;
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+            border-radius: 20px;
+            position: absolute;
+            left: 500px;
+            top: 100px;
+        }
+        a{
+            text-decoration: none;
+            color: black;
+            font-size: larger;
+        }
+       
+        .gombok{
+            background-color: #808080;
+            color: white;
+            font-size: large;
+            width: 200px;
+            font-size: larger;
+            text-align: center;
+            margin-top: 10px;
+            margin-right: 40px;
+            margin-bottom: 10px;
+            border-radius: 50px;
+            border: none;
+            padding: 20px 20px 20px 20px;
+            list-style-type:none;
+            transition: transform 0.3s ease;
+
+        }
+        .gombok:hover{
+            background-color: rgb(143, 143, 143);
+            cursor:pointer;
+            transform: scale(1.1);
+
+        }
+        #back{
+            background-color: rgba(128, 128, 128, 0.3);
+            color: white;
+            font-size: large;
+            margin-top: 20px;
+            margin-right: 20px;
+            border-radius: 50px;
+            border: none;
+            padding: 0 20px 0 20px;
+        }
+        
+        
+    </style>
+</head>
+<body>
+        <a href="http://localhost/szerveroldali/laci_verzio/quiz/index.php"><button id="back" class="login">⬅</button></a>
+        <h2 class="cim">Válassz egy kitöltendő kvízt:</h2>
+        <ol>
+                    <a href="?quizId=<?php echo $quiz['id']; ?>" class="gombok"><li >kvizek_nevei</li></a>
+                    <a href="?quizId=<?php echo $quiz['id']; ?>" class="gombok"><li >kvizek_nevei</li></a>
+                    <a href="?quizId=<?php echo $quiz['id']; ?>" class="gombok"><li >kvizek_nevei</li></a>
+                    <a href="?quizId=<?php echo $quiz['id']; ?>" class="gombok"><li >kvizek_nevei</li></a>
+                    <a href="?quizId=<?php echo $quiz['id']; ?>" class="gombok"><li >kvizek_nevei</li></a>
+        </ol>
+    
+</body>
+</html>

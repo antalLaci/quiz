@@ -1,0 +1,20 @@
+[
+    {
+      "kerdes": "Mi az ezüst kémiai szimbóluma?",
+      "helyes": 3,
+      "valasz1": "H",
+      "valasz2": "Ez",
+      "valasz3": "Ag",
+      "valasz4": "Au",
+      "pont": 1
+    },
+    {
+      "kerdes": "Mi a neve Dél-Korea legnagyobb technológiai vállalatának?",
+      "helyes": 1,
+      "valasz1": "Samsung",
+      "valasz2": "Xiaomi",
+      "valasz3": "Huaweii",
+      "valasz4": "Apple",
+      "pont": 2
+    }
+]
